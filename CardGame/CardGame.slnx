@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CardGame/CardGame.csproj" />
+  <Project Path="CardGameConsole/CardGameConsole.csproj" />
+</Solution>

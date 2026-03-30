@@ -1,0 +1,12 @@
+C:\Users\vicxm\Downloads\Checkpoint-02-C\CardGame\CardGame.Core\bin\Debug\net8.0\CardGame.Core.deps.json
+C:\Users\vicxm\Downloads\Checkpoint-02-C\CardGame\CardGame.Core\bin\Debug\net8.0\CardGame.Core.dll
+C:\Users\vicxm\Downloads\Checkpoint-02-C\CardGame\CardGame.Core\bin\Debug\net8.0\CardGame.Core.pdb
+C:\Users\vicxm\Downloads\Checkpoint-02-C\CardGame\CardGame.Core\obj\Debug\net8.0\CardGame.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicxm\Downloads\Checkpoint-02-C\CardGame\CardGame.Core\obj\Debug\net8.0\CardGame.Core.AssemblyInfoInputs.cache
+C:\Users\vicxm\Downloads\Checkpoint-02-C\CardGame\CardGame.Core\obj\Debug\net8.0\CardGame.Core.AssemblyInfo.cs
+C:\Users\vicxm\Downloads\Checkpoint-02-C\CardGame\CardGame.Core\obj\Debug\net8.0\CardGame.Core.csproj.CoreCompileInputs.cache
+C:\Users\vicxm\Downloads\Checkpoint-02-C\CardGame\CardGame.Core\obj\Debug\net8.0\CardGame.Core.sourcelink.json
+C:\Users\vicxm\Downloads\Checkpoint-02-C\CardGame\CardGame.Core\obj\Debug\net8.0\CardGame.Core.dll
+C:\Users\vicxm\Downloads\Checkpoint-02-C\CardGame\CardGame.Core\obj\Debug\net8.0\refint\CardGame.Core.dll
+C:\Users\vicxm\Downloads\Checkpoint-02-C\CardGame\CardGame.Core\obj\Debug\net8.0\CardGame.Core.pdb
+C:\Users\vicxm\Downloads\Checkpoint-02-C\CardGame\CardGame.Core\obj\Debug\net8.0\ref\CardGame.Core.dll

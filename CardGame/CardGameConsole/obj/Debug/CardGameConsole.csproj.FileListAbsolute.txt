@@ -1,0 +1,2 @@
+C:\Users\vicxm\Downloads\Checkpoint-02-C\CardGame\CardGameConsole\obj\Debug\CardGameConsole.csproj.AssemblyReference.cache
+C:\Users\vicxm\Downloads\Checkpoint-02-C\CardGame\CardGameConsole\obj\Debug\CardGameConsole.csproj.CoreCompileInputs.cache
